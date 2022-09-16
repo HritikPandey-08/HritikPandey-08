@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hritik Pandey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" align="right" width="400">
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=HritikPandey-08&label=Profile%20views&color=0e75b6&style=flat" alt="HritikPandey-08" /></p>
+<!-- <p align="left">
+<img src="https://komarev.com/ghpvc/?username=HritikPandey-08&label=Profile%20views&color=0e75b6&style=flat" alt="HritikPandey-08" /></p> -->
 
 
 - 🔭 I’m currently working on **mini project**
