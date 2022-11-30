@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently pursuing **Msc.Computer Science**
 
-- 👯 I’m looking forward to work in **Google**
+- 👯 I’m looking forward to work in **Silicon Valley**
 
 - 📫 How to reach me **pandeyhritik08@gmail.com**
 
